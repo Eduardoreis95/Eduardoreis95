@@ -1,7 +1,7 @@
 ### Oi, eu sou o Eduardo Reis 👋
 
 
-- 🔭 Atualmente trabalho com commercial
+- 🔭 Atualmente trabalho com comercial
 - 🌱 Estudo Data Science e Big Data
 - 👯 Procuro fazer networks com especialistas para me ajudar.
 
