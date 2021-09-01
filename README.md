@@ -18,7 +18,7 @@
    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/google/google-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/pycharm/pycharm-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+
 
   <img align="right" alt="" src="https://media.giphy.com/media/d6Jh5xpKM7yXmUak8C/giphy.gif?cid=790b7611bf5caa99c1da3c55a0ae44294b1ea915f087ad7d&rid=giphy.gif&ct=g" width="100px">
 <br> </br> 
