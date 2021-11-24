@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente trabalho com comercial
 - 🌱 Estudo Data Science e Big Data
-- 👯 Busco ralizar networks para adquirir experiencias e conhecimento de mercado.
+- 👯 Busco realizar networks para adquirir experiencias e conhecimento de mercado.
 
 <div>
   <a href="https://github.com/eduaroreis95">
