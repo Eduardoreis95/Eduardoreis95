@@ -2,8 +2,8 @@
 
 
 - 💼 Atualmente trabalho com comercial
-- 📖 Faço Técnologo em Gestão da Técnologia da Informação e busco atuar na área de Desenvolvimento e Análise de Dados.
-- 👯 Busco trabalhar na área de drealizar networks para adquirir experiencias e conhecimento de mercado.
+- 📖 Técnologo em Gestão da Técnologia da Informação 
+- 💻 Data Science
 
 <div>
   <a href="https://github.com/eduaroreis95">
