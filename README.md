@@ -3,7 +3,7 @@
 
 - 💼 Atualmente trabalho com comercial
 - 📖 Técnologo em Gestão da Técnologia da Informação 
-- 💻 Pós Graduando em Ciencia De Dados
+- 💻 Pós Graduado em Ciencia De Dados
 
 <div>
   <a href="https://github.com/eduaroreis95">
