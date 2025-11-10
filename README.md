@@ -7,8 +7,8 @@
 
 ## 🛠️ Tools I Work With
 - **Project & Team Management**: Jira, Notion, GitHub, Microsoft 365, Google Workspace  
-- **Design & Prototyping**: Figma  
-- **Development & Collaboration**: GitHub, VS Code, Trello
+- **Design & Prototyping**: Figma, Canva
+- **Development & Collaboration**: GitHub, VS Code, PyCharm, Fleet
 
 ## 💻 Technologies
 - **Languages & Frameworks**:  
