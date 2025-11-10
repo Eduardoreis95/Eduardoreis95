@@ -1,9 +1,31 @@
-### Oi, eu sou o Eduardo Reis 👋
+👋 Hi, I'm Eduardo Reis
+
+🎯 **Product Owner | Process Manager | Data Scientist | Hobbyist Developer**  
+🧠 Founder of [Neo8bit.com](https://www.neo8bit.com) – a geek & tech e-commerce hub  
+🌐 Currently leading the development of a modular ERP system for business management  
+☁️ Passionate about cloud computing, digital innovation, and agile workflows
+
+## 🛠️ Tools I Work With
+- **Project & Team Management**: Jira, Notion, GitHub, Microsoft 365, Google Workspace  
+- **Design & Prototyping**: Figma  
+- **Development & Collaboration**: GitHub, VS Code, Trello
+
+## 💻 Technologies
+- **Languages & Frameworks**:  
+  - Python, Jupyter Notebook  
+  - React, TypeScript, Vite, Vue.js  
+- **Cloud & Data**:  
+  - Cloud-first mindset, data-driven decision making
 
 
-- 💼 Atualmente trabalho com comercial
-- 📖 Técnologo em Gestão da Técnologia da Informação 
-- 💻 Pós Graduado em Ciencia De Dados
+## 🚀 Projects & Initiatives
+- **ERP Nuvion System**  
+  Product Owner and Front-end Lead of a scalable ERP platform built with React + TypeScript  
+  Focused on modular architecture, intuitive UI, and seamless integration with Java/Spring Boot APIs
+
+- **Neo8bit.com**  
+  Creator and manager of a geek-tech e-commerce store offering retro consoles, wearables, and collectibles  
+  Built with passion for technology, gaming, and user experience
 
 <div>
   <a href="https://github.com/eduaroreis95">
@@ -26,7 +48,7 @@
 </div>
   
 <div> 
-  <a href="https://instagram.com/itsreiseduardo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/digitalreiseduardo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:eduardoreis.r95@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardo-d-reis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
