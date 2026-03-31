@@ -1,60 +1,119 @@
-👋 Hi, I'm Eduardo Reis
+<h1 align="center">Hi 👋, I'm Eduardo Reis</h1>
 
-🎯 **Product Owner | Process Manager | Data Scientist | Hobbyist Developer**  
-🧠 Founder of [Neo8bit.com](https://www.neo8bit.com) – a geek & tech e-commerce hub  
-🌐 Currently leading the development of a modular ERP system for business management  
-☁️ Passionate about cloud computing, digital innovation, and agile workflows
+<h3 align="center">
+UI/UX & Full Stack Developer • Product Thinker • Data-driven Builder
+</h3>
 
-## 🛠️ Tools I Work With
-- **Project & Team Management**: Jira, Notion, GitHub, Microsoft 365, Google Workspace  
-- **Design & Prototyping**: Figma, Canva
-- **Development & Collaboration**: GitHub, VS Code, PyCharm, Fleet
+<p align="center">
+Building digital solutions with clean UI, scalable architecture and real business impact.
+</p>
 
-## 💻 Technologies
-- **Languages & Frameworks**:  
-  - Python, Jupyter Notebook  
-  - React, TypeScript, Vite, Vue.js  
-- **Cloud & Data**:  
-  - Cloud-first mindset, data-driven decision making
+---
 
+## 🚀 About Me
 
-## 🚀 Projects & Initiatives
-- **ERP Nuvion System**  
-  Product Owner and Front-end Lead of a scalable ERP platform built with React + TypeScript  
-  Focused on modular architecture, intuitive UI, and seamless integration with Java/Spring Boot APIs
+- 💻 UI/UX & Full Stack Developer @ GLC Softwares  
+- 🧠 Focused on system architecture and product design  
+- 🎯 Working with prototyping, validation and development  
+- 🌐 Currently building modular ERP platforms  
+- ☁️ Cloud-first & data-driven mindset  
+- 🎮 Tech enthusiast, builder and problem solver  
 
-- **Neo8bit.com**  
-  Creator and manager of a geek-tech e-commerce store offering retro consoles, wearables, and collectibles  
-  Built with passion for technology, gaming, and user experience
+---
 
-<div>
-  <a href="https://github.com/eduaroreis95">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoreis95&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoreis95&layout=compact&langs_count=7&theme=tokyonight"/>
+## 🧩 What I Do
+
+🔹 UI/UX Design & Prototyping  
+🔹 Full Stack Web Development  
+🔹 System Architecture Planning  
+🔹 Product Discovery & Validation  
+🔹 Business-oriented Software Solutions  
+🔹 Agile & Structured Development  
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript)
+![Vue](https://img.shields.io/badge/Vue-0f172a?style=for-the-badge&logo=vue.js)
+![Vite](https://img.shields.io/badge/Vite-0f172a?style=for-the-badge&logo=vite)
+
+### ⚙️ Backend
+![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk)
+![Spring](https://img.shields.io/badge/Spring-0f172a?style=for-the-badge&logo=spring)
+
+### 🎨 UI/UX
+![Figma](https://img.shields.io/badge/Figma-0f172a?style=for-the-badge&logo=figma)
+![UX](https://img.shields.io/badge/UI%2FUX-0f172a?style=for-the-badge)
+
+### ☁️ Tools
+![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git)
+![Github](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github)
+![Jira](https://img.shields.io/badge/Jira-0f172a?style=for-the-badge&logo=jira)
+![Notion](https://img.shields.io/badge/Notion-0f172a?style=for-the-badge&logo=notion)
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 Nuvion ERP System
+Modular ERP platform focused on scalability, clean UI and business workflows.
+
+- React + TypeScript
+- Modular Architecture
+- UI-first Design
+- Java/Spring APIs
+- Multi-module structure
+
+---
+
+### 🎮 Neo8bit
+Geek-tech e-commerce platform focused on retro and digital culture.
+
+- UX focused store
+- Tech & Gaming niche
+- Product architecture planning
+- Branding & concept
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoreis95&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoreis95&layout=compact&theme=tokyonight"/>
+
 </div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/jupyter/jupyter-original.svg">
-     
-  
-   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/google/google-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/pycharm/pycharm-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
-  <img align="right" alt="" src="https://media.giphy.com/media/d6Jh5xpKM7yXmUak8C/giphy.gif?cid=790b7611bf5caa99c1da3c55a0ae44294b1ea915f087ad7d&rid=giphy.gif&ct=g" width="100px">
-<br> </br> 
+---
+
+## 🌎 Connect with me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/eduardo-d-reis">
+<img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:eduardoreis.r95@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://instagram.com/digitalreiseduardo">
+<img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram">
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=UI%2FUX+%26+Full+Stack+Developer;Building+Scalable+Digital+Solutions;Clean+UI+%2B+Strong+Architecture;GLC+Softwares" />
+
 </div>
-  
-<div> 
-  <a href="https://instagram.com/digitalreiseduardo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:eduardoreis.r95@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eduardo-d-reis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
