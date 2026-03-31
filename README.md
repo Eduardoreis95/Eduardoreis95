@@ -1,7 +1,7 @@
 <h1 align="center">Eduardo Reis</h1>
 
 <p align="center">
-UI/UX & Full Stack Developer • Product Thinking • Digital Solutions
+UI/UX & Full Stack Developer • Vibe Coder • Data Scientist • Product Thinking • Digital Solutions
 </p>
 
 ---
@@ -9,11 +9,12 @@ UI/UX & Full Stack Developer • Product Thinking • Digital Solutions
 ## 🚀 About Me
 
 - 💻 UI/UX & Full Stack Developer @ GLC Softwares  
-- 🎨 Focused on UI/UX, prototyping and system architecture  
-- 🧠 Working with structured software solutions  
-- 🌐 Building institutional websites and web systems  
-- ☁️ Cloud-first & product-oriented mindset  
-- 🎯 Focused on clean UI and scalable projects  
+- 🎨 Focused on UI/UX, prototyping and product design  
+- 🧠 Data-driven development mindset  
+- 🌐 Building institutional websites and systems  
+- ☁️ Cloud-first & scalable architecture  
+- ⚡ Vibe coder — fast iteration & clean UI  
+- 📊 Data Scientist background  
 
 ---
 
@@ -23,8 +24,9 @@ UI/UX & Full Stack Developer • Product Thinking • Digital Solutions
 - Full Stack Web Development  
 - Institutional Websites  
 - System Architecture Planning  
-- Product Discovery & Validation  
+- Product Discovery  
 - Business-Oriented Software  
+- Data Visualization  
 
 ---
 
@@ -46,28 +48,35 @@ UI/UX & Full Stack Developer • Product Thinking • Digital Solutions
 ![Figma](https://img.shields.io/badge/Figma-0f172a?style=for-the-badge&logo=figma)
 ![UX](https://img.shields.io/badge/UI%2FUX-0f172a?style=for-the-badge)
 
-### Tools
+### Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git)
-![Github](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github)
+![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github)
+![GitLab](https://img.shields.io/badge/GitLab-0f172a?style=for-the-badge&logo=gitlab)
 ![Jira](https://img.shields.io/badge/Jira-0f172a?style=for-the-badge&logo=jira)
 ![Notion](https://img.shields.io/badge/Notion-0f172a?style=for-the-badge&logo=notion)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-0f172a?style=for-the-badge)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-### OG Classic — Institutional Website
+### OG Classic — Institutional Website  
 https://www.ogclassic.com.br/
 
-Institutional website developed for a handmade glass art brand.
+Handmade glass art brand website developed with focus on identity and atmosphere.
 
-- UI/UX design focused on brand identity  
-- Institutional website structure  
-- Visual storytelling and product positioning  
-- Responsive layout  
+- UI/UX focused layout  
+- Institutional website  
+- Brand storytelling  
+- Responsive design  
 - Performance optimized  
 
-Handmade glass art brand with underground studio atmosphere, unique handcrafted pieces and strong visual identity.
+Handmade glass art  
+OG Classic  
+Vidro soprado artesanal  
+Peças únicas feitas à mão  
+
+Cultura • Estilo • Exclusividade  
 
 ---
 
@@ -75,9 +84,9 @@ Handmade glass art brand with underground studio atmosphere, unique handcrafted 
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=eduardoreis95&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Eduardoreis95&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoreis95&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardoreis95&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
@@ -87,12 +96,16 @@ Handmade glass art brand with underground studio atmosphere, unique handcrafted 
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/eduardo-d-reis">
-<img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin">
+<a href="https://github.com/Eduardoreis95">
+<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github">
 </a>
 
-<a href="mailto:eduardoreis.r95@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail">
+<a href="https://gitlab.com/">
+<img src="https://img.shields.io/badge/GitLab-0f172a?style=for-the-badge&logo=gitlab">
+</a>
+
+<a href="https://www.linkedin.com/in/eduardo-d-reis">
+<img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin">
 </a>
 
 <a href="https://instagram.com/og.glass_">
@@ -105,6 +118,6 @@ Handmade glass art brand with underground studio atmosphere, unique handcrafted 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=UI%2FUX+%26+Full+Stack+Developer;Building+Clean+Digital+Experiences;GLC+Softwares;Institutional+Websites+%2B+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=UI%2FUX+%26+Full+Stack+Developer;Vibe+Coder;Data+Scientist;GLC+Softwares;Building+Digital+Products;Institutional+Websites+%2B+Systems" />
 
 </div>
