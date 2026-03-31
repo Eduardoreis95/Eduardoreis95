@@ -105,8 +105,8 @@ Cultura • Estilo • Exclusividade
 <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://instagram.com/og.glass_">
-<img src="https://img.shields.io/badge/OG%20Glass-0f172a?style=for-the-badge&logo=instagram">
+<a href="https://instagram.com/digitalreiseduardo">
+<img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram">
 </a>
 
 </p>
