@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Eduardo Reis</h1>
-
-<h3 align="center">
-UI/UX & Full Stack Developer • Product Thinker • Data-driven Builder
-</h3>
+<h1 align="center">Eduardo Reis</h1>
 
 <p align="center">
-Building digital solutions with clean UI, scalable architecture and real business impact.
+UI/UX & Full Stack Developer • Product Thinking • Digital Solutions
 </p>
 
 ---
@@ -13,43 +9,44 @@ Building digital solutions with clean UI, scalable architecture and real busines
 ## 🚀 About Me
 
 - 💻 UI/UX & Full Stack Developer @ GLC Softwares  
-- 🧠 Focused on system architecture and product design  
-- 🎯 Working with prototyping, validation and development  
-- 🌐 Currently building modular ERP platforms  
-- ☁️ Cloud-first & data-driven mindset  
-- 🎮 Tech enthusiast, builder and problem solver  
+- 🎨 Focused on UI/UX, prototyping and system architecture  
+- 🧠 Working with structured software solutions  
+- 🌐 Building institutional websites and web systems  
+- ☁️ Cloud-first & product-oriented mindset  
+- 🎯 Focused on clean UI and scalable projects  
 
 ---
 
 ## 🧩 What I Do
 
-🔹 UI/UX Design & Prototyping  
-🔹 Full Stack Web Development  
-🔹 System Architecture Planning  
-🔹 Product Discovery & Validation  
-🔹 Business-oriented Software Solutions  
-🔹 Agile & Structured Development  
+- UI/UX Design & Prototyping  
+- Full Stack Web Development  
+- Institutional Websites  
+- System Architecture Planning  
+- Product Discovery & Validation  
+- Business-Oriented Software  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
+### Frontend
 ![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript)
 ![Vue](https://img.shields.io/badge/Vue-0f172a?style=for-the-badge&logo=vue.js)
 ![Vite](https://img.shields.io/badge/Vite-0f172a?style=for-the-badge&logo=vite)
+![HTML](https://img.shields.io/badge/HTML-0f172a?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-0f172a?style=for-the-badge&logo=css3)
 
-### ⚙️ Backend
+### Backend
 ![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk)
-![Spring](https://img.shields.io/badge/Spring-0f172a?style=for-the-badge&logo=spring)
 
-### 🎨 UI/UX
+### UI/UX
 ![Figma](https://img.shields.io/badge/Figma-0f172a?style=for-the-badge&logo=figma)
 ![UX](https://img.shields.io/badge/UI%2FUX-0f172a?style=for-the-badge)
 
-### ☁️ Tools
+### Tools
 ![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git)
 ![Github](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github)
 ![Jira](https://img.shields.io/badge/Jira-0f172a?style=for-the-badge&logo=jira)
@@ -59,24 +56,18 @@ Building digital solutions with clean UI, scalable architecture and real busines
 
 ## 🚀 Featured Projects
 
-### 🧠 Nuvion ERP System
-Modular ERP platform focused on scalability, clean UI and business workflows.
+### OG Classic — Institutional Website
+https://www.ogclassic.com.br/
 
-- React + TypeScript
-- Modular Architecture
-- UI-first Design
-- Java/Spring APIs
-- Multi-module structure
+Institutional website developed for a handmade glass art brand.
 
----
+- UI/UX design focused on brand identity  
+- Institutional website structure  
+- Visual storytelling and product positioning  
+- Responsive layout  
+- Performance optimized  
 
-### 🎮 Neo8bit
-Geek-tech e-commerce platform focused on retro and digital culture.
-
-- UX focused store
-- Tech & Gaming niche
-- Product architecture planning
-- Branding & concept
+Handmade glass art brand with underground studio atmosphere, unique handcrafted pieces and strong visual identity.
 
 ---
 
@@ -84,15 +75,15 @@ Geek-tech e-commerce platform focused on retro and digital culture.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoreis95&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=eduardoreis95&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoreis95&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoreis95&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🌎 Connect with me
+## 🌎 Connect
 
 <p align="center">
 
@@ -104,8 +95,8 @@ Geek-tech e-commerce platform focused on retro and digital culture.
 <img src="https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail">
 </a>
 
-<a href="https://instagram.com/digitalreiseduardo">
-<img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram">
+<a href="https://instagram.com/og.glass_">
+<img src="https://img.shields.io/badge/OG%20Glass-0f172a?style=for-the-badge&logo=instagram">
 </a>
 
 </p>
@@ -114,6 +105,6 @@ Geek-tech e-commerce platform focused on retro and digital culture.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=UI%2FUX+%26+Full+Stack+Developer;Building+Scalable+Digital+Solutions;Clean+UI+%2B+Strong+Architecture;GLC+Softwares" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=UI%2FUX+%26+Full+Stack+Developer;Building+Clean+Digital+Experiences;GLC+Softwares;Institutional+Websites+%2B+Systems" />
 
 </div>
