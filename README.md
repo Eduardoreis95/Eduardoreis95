@@ -11,10 +11,11 @@ UI/UX & Full Stack Developer • Vibe Coder • Data Scientist • Product Think
 - 💻 UI/UX & Full Stack Developer @ GLC Softwares  
 - 🎨 Focused on UI/UX, prototyping and product design  
 - 🧠 Data-driven development mindset  
-- 🌐 Building institutional websites and systems  
-- ☁️ Cloud-first & scalable architecture  
+- 🌐 Building institutional websites and web systems  
 - ⚡ Vibe coder — fast iteration & clean UI  
 - 📊 Data Scientist background  
+- 👥 Team workflow using GitLab  
+- 📚 Studying with NotebookLM  
 
 ---
 
@@ -23,9 +24,9 @@ UI/UX & Full Stack Developer • Vibe Coder • Data Scientist • Product Think
 - UI/UX Design & Prototyping  
 - Full Stack Web Development  
 - Institutional Websites  
-- System Architecture Planning  
-- Product Discovery  
-- Business-Oriented Software  
+- Product Design  
+- System Architecture  
+- Business Software  
 - Data Visualization  
 
 ---
@@ -37,8 +38,6 @@ UI/UX & Full Stack Developer • Vibe Coder • Data Scientist • Product Think
 ![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript)
 ![Vue](https://img.shields.io/badge/Vue-0f172a?style=for-the-badge&logo=vue.js)
 ![Vite](https://img.shields.io/badge/Vite-0f172a?style=for-the-badge&logo=vite)
-![HTML](https://img.shields.io/badge/HTML-0f172a?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-0f172a?style=for-the-badge&logo=css3)
 
 ### Backend
 ![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python)
@@ -46,15 +45,13 @@ UI/UX & Full Stack Developer • Vibe Coder • Data Scientist • Product Think
 
 ### UI/UX
 ![Figma](https://img.shields.io/badge/Figma-0f172a?style=for-the-badge&logo=figma)
-![UX](https://img.shields.io/badge/UI%2FUX-0f172a?style=for-the-badge)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-0f172a?style=for-the-badge)
 
-### Tools & Workflow
-![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git)
+### Workflow
 ![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github)
 ![GitLab](https://img.shields.io/badge/GitLab-0f172a?style=for-the-badge&logo=gitlab)
-![Jira](https://img.shields.io/badge/Jira-0f172a?style=for-the-badge&logo=jira)
-![Notion](https://img.shields.io/badge/Notion-0f172a?style=for-the-badge&logo=notion)
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-0f172a?style=for-the-badge)
+![Notion](https://img.shields.io/badge/Notion-0f172a?style=for-the-badge&logo=notion)
 
 ---
 
@@ -84,9 +81,9 @@ Cultura • Estilo • Exclusividade
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Eduardoreis95&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardoreis95&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardoreis95&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Eduardoreis95&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 </div>
 
@@ -100,7 +97,7 @@ Cultura • Estilo • Exclusividade
 <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://gitlab.com/">
+<a href="https://gitlab.com/eduardoreis.r95">
 <img src="https://img.shields.io/badge/GitLab-0f172a?style=for-the-badge&logo=gitlab">
 </a>
 
@@ -118,6 +115,6 @@ Cultura • Estilo • Exclusividade
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=UI%2FUX+%26+Full+Stack+Developer;Vibe+Coder;Data+Scientist;GLC+Softwares;Building+Digital+Products;Institutional+Websites+%2B+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=UI%2FUX+%26+Full+Stack+Developer;Vibe+Coder;Data+Scientist;GLC+Softwares;GitLab+Workflow;Building+Digital+Products;Institutional+Websites+%2B+Systems" />
 
 </div>
